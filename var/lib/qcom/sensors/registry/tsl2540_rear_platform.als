@@ -1,0 +1,1 @@
+{"tsl2540_rear_platform.als":{"owner":"sns_tsl2540_rear","fac_cal":{"type":"grp","ver":"0","data":""}}}
